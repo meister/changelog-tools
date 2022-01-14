@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "extends": [
+    "pipedrive/typescript"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "@typescript-eslint"
+  ],
+  "rules": {
+      "no-console": "off",
+      "comma-dangle": ["error", "never"]
+  }
+}
