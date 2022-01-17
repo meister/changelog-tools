@@ -44,6 +44,8 @@ This repository is accepting contributions both in term of issue reports and pul
 
 As always - be good to others!
 
-## Author
+## License
+
+[ISC](/LICENSE)
 
 &copy; 2022 [meister](https://github.com/meister)
